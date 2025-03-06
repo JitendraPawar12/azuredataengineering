@@ -155,7 +155,7 @@
 				"typeProperties": {
 					"variableName": "github_metadata",
 					"value": {
-						"value": "@activity('github_metadata').output",
+						"value": "@activity('github_metadata').output.response",
 						"type": "Expression"
 					}
 				}
