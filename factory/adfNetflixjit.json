@@ -1,0 +1,9 @@
+{
+	"name": "adfNetflixjit",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ffc3b949-a0a2-491c-ab0c-bdfb5a29faa3",
+		"tenantId": "348c0dde-dc87-496c-b597-85c3721f198e"
+	}
+}
